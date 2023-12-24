@@ -1,0 +1,24 @@
+body
+{
+    background-color: rgb(206, 252, 254);
+}
+hr    
+{
+/* border-color: rgb(206, 252, 254);
+border-style: dotted none none;
+border-color: blueviolet;
+border-width: 20px;*/
+border-style: none;
+}
+td h1
+{
+    color: rgb(1, 82, 82);
+}
+h2
+{
+color: rgb(1, 82, 82);
+}
+h3
+{
+    color: rgb(1,82, 82);
+}
